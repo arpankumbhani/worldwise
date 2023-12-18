@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Ahmedabad",
+      "country": "India",
+      "emoji": "🏳️",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "",
+      "position": {
+        "lat": 23.033863,
+        "lng": 72.585022
+      },
+      "id": 54684651
+    },
+    {
+      "cityName": "Junagadh",
+      "country": "India",
+      "emoji": "🚩",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "This is Lion's City",
+      "position": {
+        "lat": 21.515471,
+        "lng": 70.456444
+      },
+      "id": 15654853
+    },
+    {
+      "cityName": "Badin",
+      "country": "🇵🇦🇰🇮🇸🇹🇦🇳",
+      "emoji": "🇵🇰",
+      "date": "2023-11-07T07:28:25.564Z",
+      "notes": "asdasd",
+      "position": {
+        "lat": "24.66755255864655",
+        "lng": "68.93920898437501"
+      },
+      "id": 54684653
+    },
+    {
+      "cityName": "Surendranagar",
+      "country": "🇮🇳🇩🇮🇦",
+      "emoji": "🇮🇳",
+      "date": "2023-11-15T01:02:12.887Z",
+      "notes": "is beautiful ",
+      "position": {
+        "lat": "22.71040125422434",
+        "lng": "71.63909912109376"
+      },
+      "id": 54684654
+    },
+    {
+      "cityName": "Tianshui",
+      "country": "🇨🇭🇮🇳🇦",
+      "emoji": "🇨🇳",
+      "date": "2023-11-15T01:04:20.142Z",
+      "notes": "fdbvsuy",
+      "position": {
+        "lat": "34.71460960419464",
+        "lng": "105.05126953125001"
+      },
+      "id": 54684655
+    },
+    {
+      "cityName": "Teruel",
+      "country": "🇸🇵🇦🇮🇳",
+      "emoji": "🇪🇸",
+      "date": "2023-11-15T01:05:27.898Z",
+      "notes": "jhvuy",
+      "position": {
+        "lat": "40.33011466141385",
+        "lng": "-1.1206054687500002"
+      },
+      "id": 54684656
+    },
+    {
+      "cityName": "Vadodara",
+      "country": "🇮🇳🇩🇮🇦",
+      "emoji": "🇮🇳",
+      "date": "2023-11-25T10:29:15.898Z",
+      "notes": "fjvhhbfh",
+      "position": {
+        "lat": "22.289952327720922",
+        "lng": "73.21838378906251"
+      },
+      "id": 54684657
+    }
+  ]
+}
